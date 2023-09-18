@@ -10,6 +10,6 @@ html {
 }
 ```
 
-![flowchart diagram](https://github.com/1yx/zh-CN.css/blob/master/flowchart.png?raw=true)
+![flowchart diagram](https://github.com/1yx/zh-CN.css/blob/main/flowchart.png?raw=true)
 
 [1]: https://github.com/majodev/google-webfonts-helper
