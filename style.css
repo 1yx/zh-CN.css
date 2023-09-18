@@ -1,0 +1,30 @@
+@font-face {
+  font-display: block;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 400;
+  src: url("./fonts/noto-sans-sc-v36-chinese-simplified_latin-regular.woff2")
+    format("woff2");
+}
+@font-face {
+  font-display: block;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 600;
+  src: url("./fonts/noto-sans-sc-v36-chinese-simplified_latin-600.woff2")
+    format("woff2");
+}
+@font-face {
+  font-display: block;
+  font-family: "Noto Sans SC";
+  font-style: normal;
+  font-weight: 700;
+  src: url("./fonts/noto-sans-sc-v36-chinese-simplified_latin-700.woff2")
+    format("woff2");
+}
+
+html {
+  font-family: -apple-system, BlinkMacSystemFont, "PingFang SC",
+    "Helvetica Neue", "Helvetica", "Source Han Sans SC", "WenQuanYi Micro Hei,",
+    "Microsoft YaHei", "Noto Sans SC", sans-serif;
+}
